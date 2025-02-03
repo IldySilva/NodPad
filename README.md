@@ -94,7 +94,7 @@ The project is divided into two main directories:
 ## Technologies Used
 
 - **Golang**: Backend WebSocket server.
-- **Flutter**: Cross-platform frontend development (iOS, Android, Web).
+- **Flutter**: Cross-platform frontend development (iOS, Android, Web,Linux and MAC).
 - **WebSocket**: Real-time communication between the server and the client.
 - **TextField (Flutter)**: Used for editing the document in real-time.
 
